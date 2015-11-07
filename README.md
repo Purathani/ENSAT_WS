@@ -5,8 +5,11 @@ ENSAT webservice to connect mobile application
 System Requirements:
 ===============================================
 Netbeans 8.0.2 or later
+
 Glassfish application server
+
 JAVA JDK 1.7 or later
+
 MySQL database and JDBC connection
 
 
